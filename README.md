@@ -1,5 +1,6 @@
 # Reserva_cine
 **Estudiante:** Pacheco Merino Susy Mishell
+**PARALELO:** B
 
 **Objetivo:** Desarrollar en Python un programa que gestione la reserva de asientos de sala de cine de 3 filas y 4 columnas.
 
